@@ -1,4 +1,4 @@
-![](https://staticdelivery.nexusmods.com/images/1704/134860433-1712877693.jpg)
+![](https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/thuldor's%20skyrim.jpg)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Nexus</a> ]
