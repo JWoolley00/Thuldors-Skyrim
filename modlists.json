@@ -20,9 +20,9 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
+      "image": "",
       "readme": "https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337"
+      "download": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
