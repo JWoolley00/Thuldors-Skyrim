@@ -239,7 +239,7 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 
 - _YOU_ for reading this.
 - Bethesda Game Studios for Skyrim and the Creation Kit.
-- Connor and Riley, for your many, many hours of playtesting.
+- Melcin and RustyNails, for your many, many hours of playtesting.
 - [Aljixo](https://www.nexusmods.com/skyrimspecialedition/users/68019769) for lending this GitHub documentation format. 
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 - [Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.
