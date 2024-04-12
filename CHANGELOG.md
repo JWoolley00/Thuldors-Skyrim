@@ -12,7 +12,14 @@
 
 # Changelog
 
+- [1.0.0.1](#1001) April 12 2024
 - [1.0.0](#100) April 12 2024
+
+## 1.0.0.1
+
+Key Info
+
+- Addressing hashing issues with Wabbajack installation.
 
 ## 1.0.0
 
