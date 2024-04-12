@@ -1,7 +1,7 @@
 ![](https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/thuldor's%20skyrim.jpg)
 
 <p align="center">
-  [ <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Nexus</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/116515">Nexus</a> |
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md">Installation</a> |
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/FEATURES.md">Features</a> | 
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/CHANGELOG.md">Changelog</a> | 
@@ -46,9 +46,9 @@
 
 Thuldor's Skyrim is just that - a personalized load order I've developed for about one year, brought to you in an easy-to-install package. You'll find enhanced visuals, new quests, grander locations, and more rewarding gameplay, all integrated into a cohesive experience that remains faithful to the original game.
 
-The full modlist can be viewed [here](https://www.nexusmods.com/users/134860433?tab=user+files).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/thuldors-skyrim).
 
-You can find a summary of all relevant changes on the [Gameplay Guide](https://www.nexusmods.com/users/134860433?tab=user+files).
+A summary of features is available [here](https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/FEATURES.md).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -241,7 +241,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
  - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
  - In some rare cases you may see a fourth slot be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
-Before updating, please check the [changelog](https://www.nexusmods.com/skyrimspecialedition/images/227751) and back up your saves. You may need to start a new game after certain updates.
+Before updating, please check the [changelog](https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves, control preferences, and any RaceMenu presets before an update. 
@@ -255,7 +255,7 @@ Simply delete the folder. Congratulations, you have uninstalled Thuldor's Skyrim
 
 ## Issues
 
-If you encounter any bugs or issues while playing the list, leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/images/227751)
+If you encounter any bugs or issues while playing the list, leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/116515)
 
 By necessity, updates will be infrequent.
 
