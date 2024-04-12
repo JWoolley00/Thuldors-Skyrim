@@ -255,9 +255,9 @@ Simply delete the folder. Congratulations, you have uninstalled Thuldor's Skyrim
 
 ## Issues
 
-Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues.   
- If you encounter any bugs or issues while playing the list, leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/images/227751)
+If you encounter any bugs or issues while playing the list, leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/images/227751)
 
+By necessity, updates will be infrequent.
 
 ## Credits and Thanks
 
