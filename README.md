@@ -5,7 +5,7 @@
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md">Installation</a> |
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/FEATURES.md">Features</a> | 
     <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Changelog</a> | 
-    <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Modlist</a> ]
+    <a href="https://loadorderlibrary.com/lists/thuldors-skyrim">Modlist</a> ]
 </p>
 
 ---
