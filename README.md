@@ -263,6 +263,7 @@ By necessity, updates will be infrequent.
 
 - _YOU_ for reading this.
 - Bethesda Game Studios for Skyrim and the Creation Kit.
+- My brother, for introducing me to the wonderful world of Tamriel.
 - Melcin and RustyNails, for your many, many hours of playtesting.
 - [Aljixo](https://www.nexusmods.com/skyrimspecialedition/users/68019769) for lending this GitHub documentation format. 
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
