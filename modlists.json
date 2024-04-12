@@ -22,18 +22,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/thuldor's%20skyrim.jpg",
       "readme": "https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Thuldor's%20Skyrim.wabbajack_15f32f78-be0b-4704-ac36-b4bfd3acbdb7",
+      "download": "https://authored-files.wabbajack.org/Thuldor's%20Skyrim.wabbajack_6d140a25-b53b-4ee9-ba3a-e25daff0f730",
       "machineURL": "thuldorsskyrim"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8hGgGphtsqA=",
-      "Size": 180073128,
-      "NumberOfArchives": 1572,
-      "SizeOfArchives": 120601964969,
-      "NumberOfInstalledFiles": 224949,
-      "SizeOfInstalledFiles": 169821205005
+      "Hash": "lKJTDOJsubc=",
+      "Size": 179862928,
+      "NumberOfArchives": 1570,
+      "SizeOfArchives": 120599816307,
+      "NumberOfInstalledFiles": 224947,
+      "SizeOfInstalledFiles": 169821001018
     },
-    "version": "1.0"
+    "version": "1.0.0.1"
   }
 ]
