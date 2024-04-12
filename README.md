@@ -29,7 +29,7 @@
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Thuldor's Skyrim](#downloading-and-installing-thuldors-skyrim)
     - [Problems with installation](#problems-with-installation)
-  - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
+  - [Post-Installation](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
@@ -72,6 +72,9 @@ Install: ~250 GB
 Installing Thuldor's Skyrim is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
+
+<Details>
+<summary>Pre-Installation Instructions</summary>
 
 These steps are only required for installing the Modlist for the first time. Additionally, many of these steps may be covered in other modlist installs, for new users I suggest reading through here regardless.
 
@@ -140,7 +143,12 @@ The English Steam version of Skyrim is the only supported version. I understand 
  7. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
  8. Proceed with the rest of the installation.
 
+</Details>
+
 ### Wabbajack Installation
+
+<Details>
+<summary>Wabbajack Installation Instructions</summary>
 
 #### Installing Wabbajack
 
@@ -160,7 +168,12 @@ Downloading and installing Thuldor's Skyrim can take a while depending on your i
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
 6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below and review the instructions above for any missed steps.
 
+</Details>
+
 ### Problems with installation
+
+<Details>
+<summary>Troubleshooting Installation Instructions</summary>
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -184,7 +197,12 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Unable to download `Skyrim_Default.ini`:
  - This error means you failed to follow the readme. Go back to the [game language](#game-language) section and set your game language to English.
 
-## Post-Installation and Optional Setup
+</Details>
+
+## Post-Installation
+
+<Details>
+<summary>Post-Installation Information</summary>
 
 ### Game Folder
 
@@ -225,6 +243,8 @@ Updating is like installing the list. Simply make sure your paths are the same a
 **ALWAYS** back up saves, control preferences, and any RaceMenu presets before an update. 
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
+
+</Details>
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Thuldor's Skyrim.
