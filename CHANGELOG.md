@@ -1,4 +1,12 @@
-![](https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/thuldor's%20skyrim.jpg)
+![](https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/thuldor's%20skyrim.jpg)
+
+<p align="center">
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/116515">Nexus</a> |
+    <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md">Installation</a> |
+    <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/FEATURES.md">Features</a> | 
+    <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/CHANGELOG.md">Changelog</a> | 
+    <a href="https://loadorderlibrary.com/lists/thuldors-skyrim">Modlist</a> ]
+</p>
 
 ---
 
