@@ -1,7 +1,11 @@
 ![](https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/thuldor's%20skyrim.jpg)
 
 <p align="center">
-  [ <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Nexus</a> ]
+  [ <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Nexus</a> |
+    <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Installation</a> |
+    <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Features</a> | 
+    <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Changelog</a> | 
+    <a href="https://www.nexusmods.com/users/134860433?tab=user+files">Modlist</a> ]
 </p>
 
 ---
@@ -29,7 +33,7 @@
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Thuldor's Skyrim](#downloading-and-installing-thuldors-skyrim)
     - [Problems with installation](#problems-with-installation)
-  - [Post-Installation](#post-installation-and-optional-setup)
+  - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
