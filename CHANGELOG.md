@@ -73,6 +73,7 @@ Bugfixes
 - Fixed certain creatures not being patched to provide experience upon death
 - Fixed landscape seam outside of Falkreath
 - Fixed floating wall post in Whiterun
+- Fixed clipping issue with Serena's outfit
 - Fixed kelp and ocean grasses not appearing as intended
 
 ## 1.0.0.2
