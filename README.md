@@ -16,6 +16,12 @@
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
+**Thuldor's Skyrim comes with a custom control scheme by default, which may be toggled off. The default controls are as follows:**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/controls.png">
+</p>
+
 # Contents
 - [Attention](#attention)
 - [Contents](#contents)
@@ -235,6 +241,8 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 The list currently offers minimal gamepad support, this section will be updated in the future when gamepad support is improved.
 
+</Details>
+
 ## Updating the modlist
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
@@ -248,8 +256,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 **ALWAYS** back up saves, control preferences, and any RaceMenu presets before an update. 
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
-
-</Details>
 
 ## Removing the Modlist
 Simply delete the folder. Congratulations, you have uninstalled Thuldor's Skyrim.
