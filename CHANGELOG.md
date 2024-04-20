@@ -43,6 +43,10 @@ Additions
 - Added Console Binder
 - Added Console Binder - Settings Loader
 - Added Food Remover Synthesis Patch
+- Added Miraakle - A Miraak Replacer
+- Added Volkiharbor - Harkon and Valerica Replacer
+- Added Seranade - A(nother) Serana Replacer
+- Added Skyfall's Sleeping Hist Tree Overhaul
 - Optionally added Rudy ENB for NAT3
 
 Updates
@@ -67,6 +71,8 @@ Bugfixes
 - Fixed character menu being inaccessible using default control scheme
 - Fixed certain miscellaneous items not having weight; now only books should be weightless
 - Fixed certain creatures not being patched to provide experience upon death
+- Fixed landscape seam outside of Falkreath
+- Fixed floating wall post in Whiterun
 
 ## 1.0.0.2
 
