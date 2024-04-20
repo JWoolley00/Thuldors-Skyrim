@@ -21,6 +21,8 @@
 
 I recommend a new save game for this update.
 
+I recommend you view the Installation guide for information about the updated control scheme.
+
 Announcement
 
 - Thuldor's Skyrim is now associated with the Aetherius Modding discord server! Be sure to stop by if you'd like to discuss the list, share screenshots, or report issues. I'll still monitor this page as well, but you're likely to get more reliable support there.
