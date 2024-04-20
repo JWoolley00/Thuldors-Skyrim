@@ -5,6 +5,7 @@
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md">Installation</a> |
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/FEATURES.md">Features</a> | 
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/CHANGELOG.md">Changelog</a> | 
+    <a href="https://discord.gg/xRrHRsb5e9">Discord</a> | 
     <a href="https://loadorderlibrary.com/lists/thuldors-skyrim">Modlist</a> ]
 </p>
 
