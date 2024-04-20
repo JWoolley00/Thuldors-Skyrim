@@ -16,7 +16,7 @@
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
-**Thuldor's Skyrim comes with a custom control scheme by default, which may be toggled off. The default controls are as follows:**
+**Thuldor's Skyrim comes with a custom control scheme by default, which may be toggled off or modified normally in game:**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/controls.png">
