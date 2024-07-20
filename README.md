@@ -5,7 +5,6 @@
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/README.md">Installation</a> |
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/FEATURES.md">Features</a> | 
     <a href="https://github.com/JWoolley00/Thuldors-Skyrim/blob/main/CHANGELOG.md">Changelog</a> | 
-    <a href="https://discord.gg/xRrHRsb5e9">Discord</a> | 
     <a href="https://loadorderlibrary.com/lists/thuldors-skyrim">Modlist</a> ]
 </p>
 
@@ -17,10 +16,11 @@
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
-**Thuldor's Skyrim comes with a custom control scheme by default, which may be toggled off or modified normally in game:**
+**Thuldor's Skyrim comes with a custom control schemes for keyboard or gamepad. Toggle between them under the Controls section on the left pane of Mod Organizer 2.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/controls.png">
+  <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/keyboard.png">
+  <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/gamepad.png">
 </p>
 
 # Contents
@@ -166,7 +166,7 @@ The English Steam version of Skyrim is the only supported version. I understand 
 
 Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
 
-The list requires Wabbajack version **3.5.0.1 or later**, installing on older versions of Wabbajack will prevent the installation from being completed.
+The list requires Wabbajack version **3.7.0.0 or later**, installing on older versions of Wabbajack will prevent the installation from being completed.
 
 #### Downloading and Installing Thuldor's Skyrim
 
@@ -240,7 +240,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Controller and Gamepad Setup
 
-The list currently offers minimal gamepad support, this section will be updated in the future when gamepad support is improved.
+Switch between controller and keyboard controls in the left pane of Mod Organizer 2, under the header "CONTROL OPTIONS." Only enable one control scheme at a time. Further customization may be performed through in-game menus.
 
 </Details>
 
