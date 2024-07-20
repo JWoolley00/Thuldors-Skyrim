@@ -19,8 +19,17 @@
 **Thuldor's Skyrim comes with a custom control schemes for keyboard or gamepad. Toggle between them under the Controls section on the left pane of Mod Organizer 2.**
 
 <p align="center">
+
+***
+ 
   <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/keyboard.png">
+
+***
+  
   <img src="https://raw.githubusercontent.com/JWoolley00/Thuldors-Skyrim/main/gamepad.png">
+
+***
+  
 </p>
 
 # Contents
